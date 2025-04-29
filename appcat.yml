@@ -1,2 +1,23 @@
-SystemId:1234
-Name:"Test1"
+--- !<Application>
+id: "1234"
+modelType: "Application"
+appCode: "ctss-content-platform-ui"
+atlasId: "fasf"
+name: "Content Platform UI"
+appType: "Built"
+description: "Simple portal collecting links to existing UIs associated with Content\
+  \ Platform components which further institute a framework and establish a basis\
+  \ from which we can build out a cohesive platform UI in future and underpin use\
+  \ cases such as content search."
+state: "Active"
+documentationUrl: "test.comI"
+issueTrackerUrl: "https://jira.com/projects/CS"
+financialData:
+  applies: false
+personalData:
+  applies: false
+usages:
+- "Internal"
+systemId: "123546789"
+shortCode: "cntpltfui"
+isSystem: false
